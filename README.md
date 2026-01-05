@@ -12,7 +12,7 @@
 📚 Actively using GitHub for coding practice & real-world projects <br>
 🎨 Exploring UI/UX Design using Figma <br>
 
--> I’m a Computer Engineering student at CodingGita with a strong interest in frontend development and UI/UX design. I enjoy building clean, responsive, and user-friendly web interfaces while continuously improving my JavaScript and problem-solving skills.
+🪄 I’m a Computer Engineering student at CodingGita with a strong interest in frontend development and UI/UX design. I enjoy building clean, responsive, and user-friendly web interfaces while continuously improving my JavaScript and problem-solving skills.
 
 ---
 
