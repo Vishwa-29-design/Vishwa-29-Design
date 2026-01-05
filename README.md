@@ -18,7 +18,6 @@ Aspiring Web Developer | JavaScript & DSA Enthusiast
 
 🛠 Core Skills
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-FF6F00?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Figma-8E2DE2?style=for-the-badge&logo=figma&logoColor=white"/> </p>
----
 
 🌐 Connect With Me
 <p align="left"> <a href="https://github.com/Vishwa-29-design" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vishwa-patel-8664473a0/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.youtube.com/@VishwaPatel-q3c" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
