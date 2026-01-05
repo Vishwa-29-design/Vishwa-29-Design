@@ -1,25 +1,34 @@
- Hello Everyone! 👋 Myself Vishwa JayeshKumar Patel
+👋 Hello Everyone!
+👨‍💻 Vishwa JayeshKumar Patel
 
-💻 I’m learning Web Development  
-🚀 Interested in JavaScript & DSA  
-📚 Using GitHub for coding practice and projects  
-🎨 Interested to design UI/UX with Figma
+Aspiring Web Developer | JavaScript & DSA Enthusiast
 
----
-
-### 🛠 Skills
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Figma
+💻 Currently learning Web Development
+🚀 Interested in JavaScript & Data Structures & Algorithms
+📚 Actively using GitHub for coding practice & real-world projects
+🎨 Exploring UI/UX Design using Figma
 
 ---
 
-### 📫 Connect with me
-- GitHub: https://github.com/Vishwa-29-design
-- Linked In : https://www.linkedin.com/in/vishwa-patel-8664473a0/
-- Youtube : https://www.youtube.com/@VishwaPatel-q3c
+🛠 Tech Skills
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" /> </p>
+
+Core Skills
+
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+Git & GitHub
+
+UI/UX Design (Figma)
+---
+
+🌐 Connect With Me
+<p align="left"> <a href="https://github.com/Vishwa-29-design" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vishwa-patel-8664473a0/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.youtube.com/@VishwaPatel-q3c" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
+
 
 👩🏼‍💻Website Clones :
 | Name Of Websites | Description | Live Netlify | Video Demo | Github Repo |
