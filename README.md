@@ -1,5 +1,6 @@
 <h1 align="center"><b>👋 Hello Everyone! 👨‍💻 Vishwa JayeshKumar Patel</b></h1>
 
+<h3 align="center"><b>Computer Engineering Student at CodingGita</b></h3>
 <h3 align="center"><b>Aspiring Web Developer | JavaScript & DSA Enthusiast</b></h3>
 
 Aspiring Web Developer | JavaScript & DSA Enthusiast
