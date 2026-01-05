@@ -13,17 +13,8 @@ Aspiring Web Developer | JavaScript & DSA Enthusiast
 🛠 Tech Skills
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" /> </p>
 
-Core Skills
-
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-Git & GitHub
-
-UI/UX Design (Figma)
+🛠 Core Skills
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-FF6F00?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Figma-8E2DE2?style=for-the-badge&logo=figma&logoColor=white"/> </p>
 ---
 
 🌐 Connect With Me
