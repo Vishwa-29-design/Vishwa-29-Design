@@ -7,10 +7,10 @@
 ---
 🙋🏻‍♀️Know Me
 
-💻 Currently learning Web Development
-🚀 Interested in JavaScript & Data Structures & Algorithms
-📚 Actively using GitHub for coding practice & real-world projects
-🎨 Exploring UI/UX Design using Figma
+💻 Currently learning Web Development <br>
+🚀 Interested in JavaScript & Data Structures & Algorithms <br>
+📚 Actively using GitHub for coding practice & real-world projects <br>
+🎨 Exploring UI/UX Design using Figma <br>
 
 -> I’m a Computer Engineering student at CodingGita with a strong interest in frontend development and UI/UX design. I enjoy building clean, responsive, and user-friendly web interfaces while continuously improving my JavaScript and problem-solving skills.
 
