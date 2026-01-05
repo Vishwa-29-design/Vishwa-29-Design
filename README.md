@@ -4,8 +4,6 @@
 <h3 align="center"><b>Frontent Developer | UI/UX Designer</b></h3>
 <h3 align="center"><b>Aspiring Web Developer | JavaScript & DSA Enthusiast</b></h3>
 
-Aspiring Web Developer | JavaScript & DSA Enthusiast
-
 💻 Currently learning Web Development
 🚀 Interested in JavaScript & Data Structures & Algorithms
 📚 Actively using GitHub for coding practice & real-world projects
